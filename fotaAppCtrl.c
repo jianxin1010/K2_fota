@@ -1,0 +1,8 @@
+#define MMI_STANDALONE_TIMER         (30000)
+#define MMI_UPDATE_PROCBAR_TIMER     (1000)
+#define MESSAGEID_DOWNLOAD           (11)
+
+#define KEY_LENGTH (256)
+#define BODY_LENGTH (1000)
+#define SHA_KEY_LENGTH (32)
+#define SIGN_LENGTH (256)
